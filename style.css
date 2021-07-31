@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.row
+{
+    display: flex;
+    justify-content: center;
+}
+.style{
+margin-right: 25px;
+    margin-left: 25px;
+}
+div{
+    margin-top: 15px;
+}
